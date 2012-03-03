@@ -1,0 +1,8 @@
+.autotest
+.gitignore
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+lib/autotest/clear.rb
+test/test_autotest_clear.rb
