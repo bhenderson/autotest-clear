@@ -4,7 +4,7 @@
 
 == DESCRIPTION:
 
-Clears the terminal for every autotest run. Inspired from autotest-growl(http://www.bitcetera.com/en/products/autotest-growl)
+Clears the terminal for every autotest run. Inspired from autotest-growl[http://www.bitcetera.com/en/products/autotest-growl]
 
 == FEATURES/PROBLEMS:
 
