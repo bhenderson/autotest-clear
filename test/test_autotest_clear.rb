@@ -1,8 +1,8 @@
-require "test/unit"
-require "autotest/clear"
+require "minitest/autorun"
 
-class TestAutotest::Clear < Test::Unit::TestCase
+class TestAutotest; end
+class TestAutotest::TestClear < MiniTest::Unit::TestCase
   def test_sanity
-    flunk "write tests or I will kneecap you"
+    flunk
   end
 end

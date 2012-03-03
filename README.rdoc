@@ -8,7 +8,7 @@ Clears the terminal for every autotest run. Inspired from autotest-growl[http://
 
 == FEATURES/PROBLEMS:
 
-* Sometimes autotest will restart with no matching files and so it will clear the screen and not run anything.
+* Sometimes autotest will restart with no matching files and so it will clear[https://github.com/seattlerb/zentest/pull/15] the screen and not run anything.
 
 == SYNOPSIS:
 
