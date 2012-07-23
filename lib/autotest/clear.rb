@@ -1,5 +1,5 @@
 module Autotest::Clear
-  VERSION = '1.0.0'
+  VERSION = '1.1.0'
 
   CLEAR = "\e[2J\e[f"
   LINE  = "\n"*2 + '-'*80 + "\n"*2
