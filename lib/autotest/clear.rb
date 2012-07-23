@@ -17,4 +17,9 @@ module Autotest::Clear
     print CLEAR if @@clear_terminal
     false
   end
+
+  Autotest.add_hook :updated do |at, updated|
+    p updated if $DEBUG
+    false
+  end
 end
