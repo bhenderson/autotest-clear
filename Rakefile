@@ -3,7 +3,7 @@
 require 'rubygems'
 require 'hoe'
 
-Hoe.plugin :git
+Hoe.plugin :version, :git
 
 Hoe.spec 'autotest-clear' do
   developer 'Brian Henderson', 'henderson.bj@gmail.com'
